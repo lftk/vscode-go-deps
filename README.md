@@ -3,7 +3,7 @@
 ### 安装
 
 ``` shell
-$ curl -fsSL https://raw.githubusercontent.com/4396/vscode-go-deps/master/install | bash
+$ curl -L https://git.io/vscode-go-deps | bash
 ```
 
 ### Go Lint
